@@ -1,8 +1,0 @@
-prefix=/home/mayur/ros jade files/catkin_ws/install
-
-Name: kvaser
-Description: Description of kvaser
-Version: 0.0.0
-Cflags: -I/home/mayur/ros jade files/catkin_ws/install/include
-Libs: -L/home/mayur/ros jade files/catkin_ws/install/lib 
-Requires: message_runtime std_msgs visualization_msgs

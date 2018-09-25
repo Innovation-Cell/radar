@@ -1,8 +1,0 @@
-prefix=/home/mayur/ros jade files/catkin_ws/devel
-
-Name: azimuth
-Description: Description of azimuth
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/mayur/ros jade files/catkin_ws/devel/lib 
-Requires: 
