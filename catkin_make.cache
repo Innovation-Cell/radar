@@ -1,2 +1,0 @@
-sensing/drivers/can/packages/kvaser
--DCATKIN_DEVEL_PREFIX=/home/mayur/ros jade files/catkin_ws/src/Udacity-SDC-Radar-Driver-Micro-Challenge/ros/devel -DCMAKE_INSTALL_PREFIX=/home/mayur/ros jade files/catkin_ws/src/Udacity-SDC-Radar-Driver-Micro-Challenge/ros/install -G Unix Makefiles
